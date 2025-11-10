@@ -1,0 +1,1 @@
+#This class fetches and provides AQI data
